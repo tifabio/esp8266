@@ -1,8 +1,8 @@
-#define PIN_SCE   5
-#define PIN_RESET 4
-#define PIN_DC    12
-#define PIN_SDIN  13
-#define PIN_SCLK  14
+#define PIN_SCE   5 // D1 (GPIO5)
+#define PIN_RESET 4 // D2 (GPIO4)
+#define PIN_DC    12 // D6 (GPIO12)
+#define PIN_SDIN  13 // D7 (GPIO13)
+#define PIN_SCLK  14 // D5 (GPIO14)
 
 #define LCD_C     LOW
 #define LCD_D     HIGH
